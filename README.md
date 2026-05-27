@@ -219,12 +219,12 @@ Detailed per-class metrics and confusion matrices are available in `docs/results
 
 ## Team
 
-| Name | Roll Number |
+| Name | GitGub | Contribution |
 |---|---|
-| _Member 1_ | _Roll No._ |
-| _Member 2_ | _Roll No._ |
-| _Member 3_ | _Roll No._ |
-| _Member 4_ | _Roll No._ |
+| Harshada Indap | [@username](https://github.com/username) | _Area of contribution_ |
+| Manisha Shinde | [@username](https://github.com/username) | _Area of contribution_ |
+| Shriram Baindur | [@username](https://github.com/username) | _Area of contribution_ |
+| Saksham Aggarwal | [@username](https://github.com/username) | _Area of contribution_ |
 
 ---
 
