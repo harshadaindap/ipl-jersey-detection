@@ -222,7 +222,7 @@ Detailed per-class metrics and confusion matrices are available in `docs/results
 | Name | GitGub | Contribution |
 |---|---|
 | Harshada Indap | [@username](https://github.com/username) | _Area of contribution_ |
-| Manisha Shinde | [@username](https://github.com/username) | _Area of contribution_ |
+| Manisha Shinde | [@manishashindev](https://github.com/manishashindev)| _Area of contribution_ |
 | Shriram Baindur | [@username](https://github.com/username) | _Area of contribution_ |
 | Saksham Aggarwal | [@username](https://github.com/username) | _Area of contribution_ |
 
