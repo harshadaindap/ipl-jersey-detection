@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "ipl-jersey-detection",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
